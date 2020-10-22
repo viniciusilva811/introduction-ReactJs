@@ -10,7 +10,7 @@ function sum(a,b){
 
 function primeiroJSX(){
     return(
-        <div>
+        <div className="teste">
             Vinicius Rosa - Introdução ao ReactJS
             <h1>Soma: {sum(10, 10)}</h1>
         </div>
